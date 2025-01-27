@@ -1,6 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=000000&lines=Hi+👋,+I'm+Junaid+Khalid;A+Passionate+Software+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=000000&lines=Hi+👋,+I'm+Junaid+Khalid;A+Software+Engineer)
 
 
 
