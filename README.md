@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on MY FYP which you will find [here](https://github.com/Junaid059/FYP-Wifi-Vision-Complete-Development)
 
 - 🌱 I'm currently learning **Golang, AWS and ML** 
-- 👯 I'm looking to collaborate on **Full Stack MERN Projects**. 
+- 👯 I'm looking to collaborate on **Full Stack MERN Projects or DEVOPS Projects**. 
 - 💬 Ask me about **MERN, DEVOPS, DSA** 
  
 
