@@ -19,7 +19,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junaidkhalid2001@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/junaidkhalid07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-khalid-a9947b20b/)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=react&logoColor=white)](https://my-portfolio-i9c3dw5vk-junaid-khalids-projects-f8dde61c.vercel.app](https://portfolio-seven-mu-c05pg2wtqn.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=react&logoColor=white)](https://portfolio-seven-mu-c05pg2wtqn.vercel.app/)
+
 
 
 # 💻 Tech Stack:
