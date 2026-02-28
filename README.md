@@ -5,11 +5,11 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working as a Junior DevOps Engineer
+- 🔭 I’m currently working as a Junior Software Engineer
 
 - 🌱 I'm currently learning **AWS, ML and DL** 
 - 👯 I'm looking to collaborate on **Full Stack MERN/NEXT.js/DEVOPS/ML Projects**. 
-- 💬 Ask me about **ML,DEVOPS** 
+- 💬 Ask me about **ML,Backend,DEVOPS** 
  
 
  ![Profile Views](https://komarev.com/ghpvc/?username=Junaid059)
