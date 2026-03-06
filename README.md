@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a **Software Engineer**
 
 - 🌱 I'm currently learning **AWS, ML and DL** 
-- 👯 I'm looking to collaborate on **Full Stack MERN/NEXT.js/DEVOPS/ML Projects**. 
+- 👯 I'm looking to collaborate on **Full Stack Python/DEVOPS/ML Projects**. 
 - 💬 Ask me about **ML,Backend,DEVOPS** 
  
 
